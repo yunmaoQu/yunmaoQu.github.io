@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qingfeng&#39;s tech blog</title>
+    <link>https://yunmaoQu.github.io/daily-notes/</link>
+    <description>Recent content on qingfeng&#39;s tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn-ZH</language>
+    <lastBuildDate>Tue, 17 Sep 2024 19:03:15 +0800</lastBuildDate><atom:link href="https://yunmaoQu.github.io/daily-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://yunmaoQu.github.io/daily-notes/2024/09/17/hello/</link>
+      <pubDate>Tue, 17 Sep 2024 19:03:15 +0800</pubDate>
+      
+      <guid>https://yunmaoQu.github.io/daily-notes/2024/09/17/hello/</guid>
+      <description>hello world!!! </description>
+    </item>
+    
+  </channel>
+</rss>
