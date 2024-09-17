@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on qingfeng&#39;s tech blog</title>
-    <link>https://yunmaoQu.github.io/daily-notes/categories/</link>
+    <link>https://yunmaoQu.github.io/categories/</link>
     <description>Recent content in Categories on qingfeng&#39;s tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn-ZH</language><atom:link href="https://yunmaoQu.github.io/daily-notes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn-ZH</language><atom:link href="https://yunmaoQu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
