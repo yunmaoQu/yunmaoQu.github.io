@@ -24,7 +24,7 @@ jobs:
         run: hugo -b "https://yunmaoqu.github.io/" -e "production"
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-main@v3
         with:
           github_token: ${{ secrets.GH_PAGE_ACTION_KEY }}
           publish_dir: ./public
