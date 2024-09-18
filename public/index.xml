@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qingfeng&#39;s tech blog on qingfeng&#39;s tech blog</title>
+    <link>https://yunmaoQu.github.io/</link>
+    <description>Recent content in qingfeng&#39;s tech blog on qingfeng&#39;s tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn-ZH</language>
+    <lastBuildDate>Tue, 17 Sep 2024 19:03:15 +0800</lastBuildDate>
+    <atom:link href="https://yunmaoQu.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://yunmaoQu.github.io/about/</link>
+      <pubDate>Tue, 17 Sep 2024 22:04:42 +0800</pubDate>
+      
+      <guid>https://yunmaoQu.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Welcome to my website! My name is &lt;strong&gt;ymqu&lt;/strong&gt;, and I&amp;rsquo;m a computer science  undergraduate in china. I am good at backend-develop and I&amp;rsquo;m passionate about big data , ml -sys, distributed tech , backend-architecture,etc.&lt;/p&gt;
+&lt;p&gt;I created this website to share my knowledge, projects, and experiences with others who share similar interests. Whether you&amp;rsquo;re here to learn more about me or just exploring, I hope you find something useful and inspiring.&lt;/p&gt;
+&lt;h2 id=&#34;my-background&#34;&gt;My Background&lt;/h2&gt;
+&lt;p&gt;I have 3 years of experience in  backend develop and is looking for a new intership opportunity.&lt;/p&gt;
+&lt;p&gt;Some of my done and doing projects include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[lighty-gateway]:a lighter gateway than some mature microsevice gateway .&lt;/li&gt;
+&lt;li&gt;[ez-rpc]:a simple but comprehensive RPC framework.  .&lt;/li&gt;
+&lt;li&gt;[nosqlDB]: just like leveldb but distributed (doing!!!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h2&gt;
+&lt;p&gt;If you’d like to connect or have any questions, feel free to reach out via &lt;a href=&#34;mailto:ymqu823@gmail.com&#34;&gt;ymqu823@gmail.com&lt;/a&gt;. I’d love to hear from you!&lt;/p&gt;
+&lt;p&gt;Thank you for visiting my website!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://yunmaoqu.github.io/&#34;&gt;Back to Home&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://yunmaoQu.github.io/posts/</link>
+      <pubDate>Tue, 17 Sep 2024 19:03:15 +0800</pubDate>
+      
+      <guid>https://yunmaoQu.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
